@@ -1,6 +1,5 @@
 # Currency converter
 
-### The API used do not support some currencies.
 
 Create a currency converter webpage. The page should convert the given currency to the chosen one.
 
